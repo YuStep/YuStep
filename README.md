@@ -18,3 +18,5 @@
 - ## My projects/Мои проекты
 * Projects cannot be disclosed under NDA terms
 * Проекты не могут раскрываться по условиям NDA
+- In general, I am engaged in the development of remote banking services in a large bank as part of the full implementation on my part, from discussion during planning to delivery of a ready-made solution at the end of the sprint
+- В целом занимаюсь разработкой ДБО в крупном банке в рамках полной реализации с моей стороны от обсуждения на планировании до сдачи готового решения в конце спринта
