@@ -18,5 +18,11 @@
 - ## My projects/Мои проекты
 * Projects cannot be disclosed under NDA terms
 * Проекты не могут раскрываться по условиям NDA
+- 1 The application allows the manager to go through the full cycle from creating an application for loan to its issuance. Used big forms with many dependent fields with validation, deep filtering of created applications by numerous parameters. Reports on previously created applications.
+- 1 Приложение позволяет менеджеру пройти полный цикл от создания заявки на кредит до ее выдачи. Использованы большие формы с множеством зависимых полей с проверкой, глубокая фильтрация создаваемых заявок по многочисленным параметрам. Отчеты по ранее созданным заявкам.
+- 2 Страницы кредитных карт
+- 2 Credit card pages
+- 3 Страницы выдачи валютных ордеров
+- 3 Pages for issuing currency orders
 - In general, I am engaged in the development of remote banking services in a large bank as part of the full implementation on my part, from discussion during planning to delivery of a ready-made solution at the end of the sprint
 - В целом занимаюсь разработкой ДБО в крупном банке в рамках полной реализации с моей стороны от обсуждения на планировании до сдачи готового решения в конце спринта
