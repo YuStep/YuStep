@@ -6,6 +6,8 @@
 - Основная деятельность по разработке связана с финтехом.
 - I know how, but I do not like to understand Legacy
 - Умею, но не люблю разбираться в легаси.
+- **⚠ WARNING: Remote work only.**   
+- **⚠ Предупреждение: Только удаленная работа.**  
 - ## 🛠 Technical Stack/Технический стэк
 *   JavaScript/Typescript languages
 *   CSS, SCSS, CSS Modules, CSS in JS, Responsive design
